@@ -1,4 +1,4 @@
-<img width="1310" height="733" alt="dashboard-international" src="https://github.com/user-attachments/assets/c81e1915-7c05-44ff-9717-ab4e27b26c70" /># 📊 Online Retail Sales Dashboard | Power BI
+ 📊 Online Retail Sales Dashboard | Power BI
 
 ## 📌 Project Overview
 

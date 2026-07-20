@@ -1,4 +1,4 @@
-# 📊 Online Retail Sales Dashboard | Power BI
+<img width="1310" height="733" alt="dashboard-international" src="https://github.com/user-attachments/assets/c81e1915-7c05-44ff-9717-ab4e27b26c70" /># 📊 Online Retail Sales Dashboard | Power BI
 
 ## 📌 Project Overview
 
@@ -106,9 +106,9 @@ Online-Retail-Sales-Dashboard/
 ├── Online Retail Dataset.csv
 ├── README.md
 └── images/
-    ├── dashboard.png
-    ├── overview.png
-    └── sales-trend.png
+    ├── dashboard-international.png
+    ├── dashboard-month-filter.png
+    └── dashboard-overview.png
 ```
 ---
 

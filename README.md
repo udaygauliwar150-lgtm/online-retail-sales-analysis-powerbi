@@ -79,23 +79,18 @@ The following data preparation steps were performed before building the dashboar
 
 ## 💡 Key Insights
 
-## 💡 Key Insights
-
 - 🌍 **United Kingdom** generated the highest overall revenue, making it the dominant market in the dataset.
 - 🗓️ When **UK sales are included**, **November** recorded the highest sales revenue, indicating strong year-end demand.
 - 🌐 When **UK sales are excluded** (International market only), **October** recorded the highest sales revenue, showing a different seasonal trend in international markets.
-- 📦 **[DOTCOM POSTAGE]** generated the highest revenue among all products.
-- 👤 **Customer ID [14646]** generated the highest revenue among all customers.
+- 📦 **DOTCOM POSTAGE** generated the highest revenue among all products.
+- 👤 **Customer ID 14646** generated the highest revenue among all customers.
 - 📈 A small number of customers contributed a significant share of the total revenue, highlighting the importance of high-value customers.
-- 📊 The interactive slicers allow users to compare sales trends by **Month**, **C**, and **Market Type (UK vs. International)** for deeper business analysis.
+- 📊 The interactive slicers allow users to compare sales trends by **Month**, **Country**, and **Market Type (UK vs. International)** for deeper business analysis.
 
 ---
 
 ## 📷 Dashboard Preview
 <img width="1307" height="732" alt="dashboard-overview" src="https://github.com/user-attachments/assets/e876bc40-ba1f-446e-9e20-791df47ef4a6" />
-```
-
----
 
 ## 📁 Repository Structure
 
